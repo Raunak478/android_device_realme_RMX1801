@@ -179,8 +179,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.camera.device@1.0 \
     vendor.qti.hardware.camera.device@1.0.vendor
 
-PRODUCT_PACKAGES += \
-    GrapheneCamera
 
 # Charger
 PRODUCT_PRODUCT_PROPERTIES += \
