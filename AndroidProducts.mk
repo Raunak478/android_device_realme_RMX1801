@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_RMX1801.mk
+    $(LOCAL_DIR)/awaken_RMX1801.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_RMX1801-user \
-    arrow_RMX1801-userdebug \
-    arrow_RMX1801-eng
+    awaken_RMX1801-user \
+    awaken_RMX1801-userdebug \
+    awaken_RMX1801-eng
